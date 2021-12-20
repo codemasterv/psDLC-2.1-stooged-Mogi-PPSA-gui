@@ -1,0 +1,38 @@
+10/10/2020 1:28:04 PM : Selected directory : 
+10/10/2020 1:28:04 PM : I:\PS4
+10/10/2020 1:28:04 PM : C:\psDLCIndex-master\fake_dlc_pkg
+10/10/2020 1:28:04 PM : C:\Users\codem\OneDrive\Pictures
+10/10/2020 1:28:04 PM : C:\Users\codem\Videos
+10/10/2020 1:28:04 PM : D:\rdr2
+10/10/2020 1:28:04 PM : Creating working directory..
+10/10/2020 1:28:04 PM : Extracting resources..
+10/10/2020 1:28:04 PM : Checking Node.js and server module..
+10/10/2020 1:28:04 PM : Node.js installed.
+10/10/2020 1:28:04 PM : Module installed.
+10/10/2020 1:28:04 PM : Scanning PKG..
+10/10/2020 1:28:10 PM : Extracting PKG background music..
+10/10/2020 1:28:10 PM : Checking hardisk free space..
+10/10/2020 1:28:10 PM : An error occured while getting hardisk freespace : The device is not ready.
+
+10/10/2020 1:28:10 PM : 98 PKG found.
+10/10/2020 1:28:10 PM : Loading PKG done.
+10/10/2020 1:28:10 PM : PS4 UI Mod Theme has no trophy.
+10/10/2020 1:28:10 PM : Checking update for PS4 UI Mod Theme..
+10/10/2020 1:28:13 PM : "PS4 UI Mod Theme" has no update.
+10/10/2020 1:28:13 PM : Loading trophies for MUSYNX..
+10/10/2020 1:28:14 PM : Checking update for MUSYNX..
+10/10/2020 1:28:14 PM : Loading trophies for MUSYNX..
+10/10/2020 1:28:16 PM : "MUSYNX" has no update.
+10/10/2020 1:28:16 PM : SWORD ART ONLINE - HOLLOW REALIZATION has no trophy.
+10/10/2020 1:28:16 PM : Checking update for SWORD ART ONLINE - HOLLOW REALIZATION..
+10/10/2020 1:28:17 PM : Loading trophies for MUSYNX..
+10/10/2020 1:28:18 PM : "SWORD ART ONLINE - HOLLOW REALIZATION" has no update.
+10/10/2020 1:28:19 PM : Loading trophies for MUSYNX..
+10/10/2020 1:28:19 PM : Checking update for MUSYNX..
+10/10/2020 1:28:19 PM : Loading trophies for MUSYNX..
+10/10/2020 1:28:21 PM : "MUSYNX" has no update.
+10/10/2020 1:28:33 PM : Uninstalling patch PKG (MUSYNX)..
+10/10/2020 1:28:37 PM : PKG uninstalled.
+10/10/2020 1:28:46 PM : Checking if base PKG installed on PS4 (MUSYNX)..
+10/10/2020 1:28:50 PM : PKG already installed.
+10/10/2020 1:28:53 PM : Sending MUSYNX to PS4..
