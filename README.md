@@ -2,7 +2,7 @@
 psDLC 2.1 stooged-Mogi PPSA gui, based on psDLC 2.0 stooged gui
 
 
-based off of https://github.com/stooged/psDLC
+Stooged Source: https://github.com/stooged/psDLC
 
 thank you stooged for the cool tool!
 
